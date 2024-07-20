@@ -7,8 +7,8 @@ using namespace std;
 
 wstring tetromino[7];
 
-int nScreenWidth = 80;			// Console Screen Size X (columns)
-int nScreenHeight = 30;			// Console Screen Size Y (rows)
+int nScreenWidth = 120;			// Console Screen Size X (columns)
+int nScreenHeight = 40;			// Console Screen Size Y (rows)
 int nFieldWidth = 12;
 int nFieldHeight = 18;
 unsigned char* pField = NULL;
